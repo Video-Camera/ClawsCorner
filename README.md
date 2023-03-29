@@ -1,4 +1,6 @@
 ClawsCorner
+
+
 Welcome to ClawsCorner! ClawsCorner is a social pet project aimed at connecting cat lovers all over the world. Our platform allows users to share stories, photos, and advice about their cats, as well as connect with other cat owners in their area.
 
 Installation
@@ -15,7 +17,7 @@ Users can create an account, login, and start sharing stories and photos of thei
 Contributing
 We welcome contributions from anyone interested in improving ClawsCorner. To contribute, follow these steps:
 
-Fork the repository: https://github.com/your-username/clawscorner.git
+Fork the repository: https://github.com/Video-Camera/clawscorner.git
 Create a new branch for your feature: git checkout -b feature-name
 Make your changes and commit them: git commit -m "Add feature"
 Push your changes to your fork: git push origin feature-name
